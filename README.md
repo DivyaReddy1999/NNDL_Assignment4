@@ -1,5 +1,7 @@
 # NNDL_Assignment4
 
+Submitted by: Divya Chilukuri(700744169)
+
 Video link: https://drive.google.com/file/d/1Dg15csczZ02oJO-HbTNdvx-vCIxSEQRt/view?usp=sharing
 
 In this assignment we are working on below given tasks:
